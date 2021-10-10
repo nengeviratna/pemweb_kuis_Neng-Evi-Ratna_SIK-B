@@ -1,0 +1,25 @@
+hr{
+    margin-left: auto;
+    margin-right: auto;
+    border: 0em;
+}
+.banner{
+    background: url("images/diving.png")
+    no-repeat center center;
+    background-size: cover;
+    height: 100px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: #fff;
+}
+.title{
+    font-family: 'Signika', sans-serif;
+    font-size: 50px;
+}
+.small-line{
+    border:0.5px solid #7910f1;
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 125px;
+  }
